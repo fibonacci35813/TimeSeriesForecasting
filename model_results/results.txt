@@ -1,0 +1,12 @@
+Model: RandomForest
+Train MAPE: 40.99
+Test MAPE: 44.49
+Train RMSE: 1408.61
+Test RMSE: 2276.46
+
+Model: LightGBM
+Train MAPE: 51.68
+Test MAPE: 43.73
+Train RMSE: 1706.23
+Test RMSE: 2504.82
+
