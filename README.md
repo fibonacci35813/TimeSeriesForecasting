@@ -10,9 +10,6 @@ This project provides a dashboard for store-wise and overall sales forecasting u
 - [Usage](#usage)
 - [Approach](#approach)
 - [Model Validation](#model-validation)
-- [Next Steps](#next-steps)
-- [License](#license)
-
 ## Introduction
 
 The Sales Forecasting Dashboard provides insights into historical sales trends and forecasts future sales for individual stores and overall sales. The model incorporates US holidays to improve forecast accuracy.
